@@ -1,0 +1,3 @@
+/home/valen/Documentos/HPC_1/LinealRegresion/Debug/CMakeFiles/LinealRegresion.dir
+/home/valen/Documentos/HPC_1/LinealRegresion/Debug/CMakeFiles/edit_cache.dir
+/home/valen/Documentos/HPC_1/LinealRegresion/Debug/CMakeFiles/rebuild_cache.dir
